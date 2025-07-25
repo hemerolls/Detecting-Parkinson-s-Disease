@@ -10,7 +10,7 @@
 ## 📊 Датасет
 
 ### Источник
-[Parkinson's Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification) из UCI Machine Learning Repository
+[Parkinson's Disease Data Set](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set) из UCI Machine Learning Repository
 
 ### Структура данных
 - **Количество записей**: 195
